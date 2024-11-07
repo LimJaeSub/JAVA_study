@@ -6,11 +6,7 @@
   <details>
     <summary>배열</summary>
 
-    - 자바의 배열은 선언시 미리 인덱스의 갯수를 선언해야함
-
-    ```java
-    int arr[] = new int[5];
-    ```
+    자바의 배열은 
 
     
   </details>
